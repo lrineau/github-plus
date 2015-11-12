@@ -1,0 +1,17 @@
+{
+  "name": "atom-github-plus",
+  "main": "./lib/atom-github-plus",
+  "version": "0.0.0",
+  "description": "A github plugin for atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/rododo-meow/atom-github-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
