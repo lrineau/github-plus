@@ -1,10 +1,9 @@
 {
   "name": "github-plus",
   "main": "./lib/github-plus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A github plugin for atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "github-plus:list-issues"
