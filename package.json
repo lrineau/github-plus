@@ -1,17 +1,22 @@
 {
-  "name": "atom-github-plus",
-  "main": "./lib/atom-github-plus",
+  "name": "github-plus",
+  "main": "./lib/github-plus",
   "version": "0.0.0",
   "description": "A github plugin for atom",
   "keywords": [
   ],
   "activationCommands": {
+    "atom-workspace": [
+      "github-plus:list-issues"
+    ]
   },
-  "repository": "https://github.com/rododo-meow/atom-github-plus",
+  "repository": "https://github.com/rododo-meow/github-plus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "space-pen": "*",
+    "jquery": ">=1.0.0 <2.0.0"
   }
 }

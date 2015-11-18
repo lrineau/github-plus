@@ -1,4 +1,4 @@
-# atom-github-plus package
+# github-plus package
 
 A github plugin for atom
 
